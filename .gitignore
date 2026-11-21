@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Exports CSV locaux
+*.csv
+
+# Environnements & éditeurs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Builds Arduino / PlatformIO
+build/
+.pio/
